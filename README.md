@@ -20,7 +20,7 @@ Full Stack Web Development.**
 
 <a href="https://www.linkedin.com/in/akshay-darekar52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay darekar " height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100071661686559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akshay darekar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/akshay_darekar_52/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay darekar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/akshay_darekar__52?igsh=MWIzYXZrN3pseDNodg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay darekar" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@akshaydarekar5252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@akshaydarekar5252" height="30" width="40" /></a>
 </p>
 <br/>

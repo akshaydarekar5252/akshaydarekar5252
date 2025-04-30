@@ -12,6 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://portfolio-brown-seven-49.vercel.app/](https://portfolio-brown-seven-49.vercel.app/)
 
 - 📫 How to reach me **akshaydarekar5252@gmail.com**
+- <img src="https://i.postimg.cc/q7ggNG0h/octocat.png" align="right" width="300" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

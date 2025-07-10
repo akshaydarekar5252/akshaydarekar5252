@@ -15,9 +15,8 @@
 - 👨‍💻 All of my projects are available at [https://portfolio-brown-seven-49.vercel.app/](https://portfolio-brown-seven-49.vercel.app/)
 
 - 📫 How to reach me **akshaydarekar5252@gmail.com**
-  <img src="https://i.postimg.cc/q7ggNG0h/octocat.png" align="right" width="300" /><br>
-     <br>
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+  <img src="https://i.postimg.cc/q7ggNG0h/octocat.png" align="right" width="300" />
+     
 
 ### 💻 Tech Stack
 
@@ -32,7 +31,8 @@
 **Backend**: 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)   
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 **Databases**:
 

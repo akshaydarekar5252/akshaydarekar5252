@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=header&text=アクシュヤ%20ダレカル&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Akshay Darekar (アクシュヤ ダレカル)</h1>
 <h3 align="center">Aspiring Software Engineer seeking an internship | BE '27 | MERN | Java & DSA | Postman | SQL | Git & Github | Pursuing JLPT N5</h3>
 

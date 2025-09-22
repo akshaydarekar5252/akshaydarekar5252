@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=header&text=アクシュヤ%20ダレカル&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=header&text=アクシャイ%20ダレカル&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Akshay Darekar (アクシュヤ ダレカル)</h1>
+<h1 align="center">Hi 👋, I'm Akshay Darekar (アクシャイ ダレカル)</h1>
 <h3 align="center">Aspiring Software Engineer seeking an internship | BE '27 | MERN | Java & DSA | Postman | SQL | Git & Github | Pursuing JLPT N5</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaydarekar5252&label=Profile%20views&color=0e75b6&style=flat" alt="akshaydarekar5252" /> </p>

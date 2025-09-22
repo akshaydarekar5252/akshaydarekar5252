@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Akshay Darekar (アクシャイ ダレカル)</h1>
-<h3 align="center">Aspiring Software Engineer seeking an internship | BE '27 | MERN | Java & DSA | Postman | SQL | Git & Github | Pursuing JLPT N5</h3>
+<h3 align="center">Aspiring Software Engineer seeking an internship | JLPT N5 合格 | BE ’27 | MERN | Java & DSA | Postman | SQL | Git & Github | JLPT N4 勉強中</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaydarekar5252&label=Profile%20views&color=0e75b6&style=flat" alt="akshaydarekar5252" /> </p>
 
